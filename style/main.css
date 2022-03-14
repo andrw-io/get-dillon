@@ -1,7 +1,7 @@
 @import url(fonts/clear-sans.css);
 
 .alert {
-  padding: 20px;
+  padding: 40;
   background-color: #fcba03;
   color: white;
 }
